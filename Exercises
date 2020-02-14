@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+
+
+    <p title="About W3Schools">W3Schools is a web developer's site.</p>
+
+    <img src="w3schools.jpg" width="250" height="400">
+    <p>
+    <a href="https://www.w3schools.com">This is a link</a>
+    <p>
+    <img src="w3schools.png" alt="w3schools Logo">
+    </p>
+    <h1>London</h1>
+    <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+    </p>
+    <h1>London</h1>
+    <hr>
+    <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+    <p>
+
+    <h1>Hello</h1>
+    <h2>Hello</h2>
+    <h3>Hello</h3>
+    <h4>Hello</h4>
+    <h5>Hello</h5>
+    <h6>Hello</h6>
+    <p>
+
+    <h1>
+    Universal Studios Presents
+    </h1>
+
+    <h2>
+    Jurassic Park
+    </h2>
+
+    <h3>
+    About
+    </h3>
+
+    <p>
+    On the Island of Isla Nublar, a new park has been built: Jurassic Park is a theme park of cloned dinosaurs!!
+    </p>
+    <p>
+    <p>My Bonnie lies<br>over the ocean.</p>
+    <p>
+
+    <pre>
+
+      My Bonnie lies over the ocean.
+
+      My Bonnie lies over the sea.
+
+      My Bonnie lies over the ocean.
+
+      Oh, bring back my Bonnie to me.
+    </pre>
+
+    <p style="color:blue;">This is a paragraph.</p>
+    <p>
+    
+    <p style="font-family:courier;">This is a paragraph.</p>
+    <p>
+
+    <p style="text-align:center;">This is a paragraph.</p>
+    <p>
+
+    <p style="font-size:50px;">This is a paragraph.</p>
+    <p>
+
+    <!--   THIS MAKES THE BACKGROUND YELLOW
+    <body style="background-color:yellow;">
+      -->
+    
+    <!-- THIS ALIGNS ALL TEXT TO CENTER
+    <body style="text-align:center;">
+      -->
+    <p>
+    WWF's mission is to stop the 
+    <strong>
+    degradation
+    </strong>
+    of our planet's natural environment.
+    </p>
+
+
+
+    <script src="script.js"></script>
+  </body>
+</html>
